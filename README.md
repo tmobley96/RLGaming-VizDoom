@@ -1,4 +1,4 @@
-#Reinforcement Learning Gaming Project
+# Reinforcement Learning Gaming Project
 ![VizDoom](https://github.com/tmobley96/RLGaming-VizDoom/assets/124856260/51dd7482-fa6f-4740-afad-14b0f85a1e1e)
 
 ## RLGaming-VizDoom
