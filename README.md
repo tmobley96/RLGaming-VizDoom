@@ -1,7 +1,6 @@
 # Reinforcement Learning Gaming Project
 ![VizDoom](https://github.com/tmobley96/RLGaming-VizDoom/assets/124856260/51dd7482-fa6f-4740-afad-14b0f85a1e1e)
 
-## RLGaming-VizDoom
 In this project, I installed VizDoom for Python, a platform enabling AI experimentation within the Doom environment. The setup involved integrating VizDoom with Gymnasium for a structured reinforcement learning (RL) framework. I utilized Stable Baselines 3 to build various RL AI models, training them across different Doom levels. To enhance training efficiency and outcomes, I applied Curriculum Learning, progressively increasing the complexity of tasks, and Reward Shaping, to provide more nuanced feedback for the AI's actions. This approach aimed to refine the AI's performance in navigating and mastering the Doom gameplay, demonstrating the potential of RL in complex, dynamic environments.
 
 ## 🚀 About Me
